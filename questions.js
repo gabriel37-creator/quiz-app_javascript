@@ -1,34 +1,30 @@
 export default [
   {
-    question: "Quanto é 1 + 2?",
+    question: "vc me desculpa?...",
     answers: [
-      { option: "3", correct: true },
-      { option: "2", correct: false },
-      { option: "4", correct: false },
+      { option: "claro", correct: true },
+      { option: "simm", correct: true },
     ],
   },
   {
-    question: "Quanto é 5 x 2?",
+    question: "dicupa eu porfavor?...",
     answers: [
-      { option: "9", correct: false },
-      { option: "10", correct: true },
-      { option: "11", correct: false },
+      { option: "simm", correct: true },
+      { option: "clr amor", correct: true },
     ],
   },
   {
-    question: "Quanto é 10 x 8?",
+    question: "mozin dicupa eu?...",
     answers: [
-      { option: "800", correct: false },
-      { option: "90", correct: false },
-      { option: "80", correct: true },
+      { option: "ta bem", correct: true },
+      { option: "desculpo vc", correct: true },
     ],
   },
   {
-    question: "Quanto é 7 x 7?",
+    question: "me desculpa amor.. e conversa comigo pufavoli?",
     answers: [
-      { option: "70", correct: false },
-      { option: "56", correct: false },
-      { option: "49", correct: true },
+      { option: "simm vamos coversar", correct: true },
+      { option: "simm ta bomm", correct: true },
     ],
   },
 ];
